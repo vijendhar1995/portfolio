@@ -1,4 +1,4 @@
-# 💼 Developer Portfolio – Pega Senior System Architect
+# 💼 Portfolio – Pega Senior System Architect
 
 Welcome to my professional portfolio! This is a responsive, animated, and beautifully designed personal website showcasing my experience, certifications, technical expertise, and projects — with a special focus on Pega and low-code solutions.
 
@@ -18,4 +18,4 @@ Check out the live site here:
 ├── assets/
 │   ├── your-photo.jpg      # Profile photo
 │   ├── data.json           # Q&A for Pega tab
-│   └── certificates/       # Badge and certification images
+│   └── certificates       # Badge and certification images
